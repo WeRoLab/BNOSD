@@ -5,7 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/camargo/data" />
       <excludeFolder url="file://$MODULE_DIR$/data/camargo" />
     </content>
-    <orderEntry type="jdk" jdkName="$USER_HOME$/miniconda3" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="PowerPC" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
